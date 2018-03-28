@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WeBees</title>
+  
+  <subtitle>We are bees collecting honey in the network.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://webees.cn/"/>
+  <updated>2018-03-28T23:31:47.123Z</updated>
+  <id>http://webees.cn/</id>
+  
+  <author>
+    <name>JockLee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://webees.cn/test.html"/>
+    <id>http://webees.cn/test.html</id>
+    <published>2018-03-28T23:31:00.000Z</published>
+    <updated>2018-03-28T23:31:47.123Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
