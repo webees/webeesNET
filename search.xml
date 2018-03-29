@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2Ftest.html</url>
-    <content type="text"></content>
+    <title><![CDATA[test1]]></title>
+    <url>%2Ftest1.html</url>
+    <content type="text"><![CDATA[TESTTEST]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test2]]></title>
+    <url>%2Ftest2.html</url>
+    <content type="text"><![CDATA[TEST]]></content>
   </entry>
 </search>
