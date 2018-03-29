@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://webees.cn/"/>
-  <updated>2018-03-29T11:28:15.732Z</updated>
+  <updated>2018-03-29T11:53:20.317Z</updated>
   <id>http://webees.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://webees.cn/1520852880.html"/>
     <id>http://webees.cn/1520852880.html</id>
     <published>2018-03-12T11:08:00.000Z</published>
-    <updated>2018-03-29T11:28:15.732Z</updated>
+    <updated>2018-03-29T11:53:20.317Z</updated>
     
     <summary type="html">
     
@@ -31,6 +31,8 @@
     
       <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
     
+    
+      <category term="原创" scheme="http://webees.cn/tags/%E5%8E%9F%E5%88%9B/"/>
     
       <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
     
@@ -101,7 +103,7 @@
     <link href="http://webees.cn/1508045100.html"/>
     <id>http://webees.cn/1508045100.html</id>
     <published>2017-10-15T05:25:00.000Z</published>
-    <updated>2018-03-29T11:38:53.551Z</updated>
+    <updated>2018-03-29T11:53:04.017Z</updated>
     
     <summary type="html">
     
@@ -112,6 +114,8 @@
       <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
     
     
+      <category term="原创" scheme="http://webees.cn/tags/%E5%8E%9F%E5%88%9B/"/>
+    
       <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
     
       <category term="古风" scheme="http://webees.cn/tags/%E5%8F%A4%E9%A3%8E/"/>
@@ -121,20 +125,50 @@
   </entry>
   
   <entry>
-    <title>《秋意》</title>
-    <link href="http://webees.cn/1506621600.html"/>
-    <id>http://webees.cn/1506621600.html</id>
-    <published>2017-09-28T18:00:00.000Z</published>
-    <updated>2018-03-29T11:39:20.317Z</updated>
+    <title>《复归》</title>
+    <link href="http://webees.cn/1507203120.html"/>
+    <id>http://webees.cn/1507203120.html</id>
+    <published>2017-10-05T11:32:00.000Z</published>
+    <updated>2018-03-29T11:54:46.882Z</updated>
     
     <summary type="html">
     
-      &lt;blockquote&gt;&lt;p&gt;201710151325 惘疯&lt;br&gt;夜，遛猫，遇一女，话多，稀饭。&lt;/p&gt;&lt;/blockquote&gt;&lt;center&gt;秋夜闲停一小憩，&lt;br&gt;灯影虫鸣然可遇，
+      &lt;blockquote&gt;&lt;p&gt;201710051932 惘疯&lt;br&gt;成都到南充，南充到成都，摩托，作于路上。&lt;/p&gt;&lt;/blockquote&gt;&lt;center&gt;斗转入山，&lt;br&gt;绵延如川。&lt;br&gt;一景一触，&lt;br&gt;一叶一目。
     
     </summary>
     
       <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
     
+    
+      <category term="自由" scheme="http://webees.cn/tags/%E8%87%AA%E7%94%B1/"/>
+    
+      <category term="原创" scheme="http://webees.cn/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+    
+      <category term="随笔" scheme="http://webees.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="古风" scheme="http://webees.cn/tags/%E5%8F%A4%E9%A3%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《秋意》</title>
+    <link href="http://webees.cn/1506621600.html"/>
+    <id>http://webees.cn/1506621600.html</id>
+    <published>2017-09-28T18:00:00.000Z</published>
+    <updated>2018-03-29T11:52:55.948Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;201709290200 惘疯&lt;br&gt;夜，遛猫，遇一女，话多，稀饭。&lt;/p&gt;&lt;/blockquote&gt;&lt;center&gt;秋夜闲停一小憩，&lt;br&gt;灯影虫鸣然可遇，
+    
+    </summary>
+    
+      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+    
+    
+      <category term="原创" scheme="http://webees.cn/tags/%E5%8E%9F%E5%88%9B/"/>
     
       <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
     
