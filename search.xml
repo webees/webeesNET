@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[《单骑》]]></title>
+    <url>%2F1522919820.html</url>
+    <content type="text"><![CDATA[201804050303 惘疯骑个车，看风景，回去就碎，醒来就喝，酒。傍江单骑阅千盏，绿里花涧四分白。世事不过三两梦，敢问英豪何处来。]]></content>
+      <categories>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>诗</tag>
+        <tag>古风</tag>
+        <tag>七言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[【VUE】vue-cli v3 体验]]></title>
+    <url>%2F1522750298.html</url>
+    <content type="text"><![CDATA[[toc]上车12345678910111213141516171819202122232425262728293031323334353637383940414243&gt; npm install -g @vue/cli #yarn global add @vue/cli&gt; vue create my-projectVue CLI v3.0.0-beta.6? Please pick a preset: (Use arrow keys) default (babel, eslint)&gt; Manually select features #手动选择功能? Check the features needed for your project: (Press &lt;space&gt; to select, &lt;a&gt; to toggle all, &lt;i&gt; to invert selection)&gt;(*) TypeScript (*) Progressive Web App (PWA) Support (*) Router (*) Vuex (*) CSS Pre-processors (*) Linter / Formatter ( ) Unit Testing ( ) E2E Testing ? Use class-style component syntax? (Y/n) Y ? Use Babel alongside TypeScript for auto-detected polyfills? (Y/n) Y ? Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported by default):&gt; SCSS/SASS LESS Stylus ? Pick a linter / formatter config: (Use arrow keys) TSLint ESLint with error prevention only ESLint + Airbnb config ESLint + Standard config&gt; ESLint + Prettier? Pick additional lint features: (Press &lt;space&gt; to select, &lt;a&gt; to toggle all, &lt;i&gt; to invert selection)&gt;(*) Lint on save (*) Lint and fix on commit? Where do you prefer placing config for Babel, PostCSS, ESLint, etc.? (Use arrow keys)&gt; In dedicated config files In package.json? Save this as a preset for future projects? (Y/n) n]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[【置顶】目前还在做记忆的搬运工]]></title>
     <url>%2F1522335421.html</url>
     <content type="text"><![CDATA[每天更新点吧……还有一大波前端技术贴、C++技术贴没整理……]]></content>
