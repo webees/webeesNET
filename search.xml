@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[【Bug】解决 electron-builder 打包错误 cannot unpack electron zip file]]></title>
+    <url>%2F1537414380.html</url>
+    <content type="text"><![CDATA[由于升级了所有依赖，打包的时候总是错误。几经周折，终于解决：1C:\Users\Administrator\AppData\Local\electron\Cache\electron-v2.0.9-win32-ia32.zip上述路径中的文件损坏，无法解压所致。可尝试清空整个Cache目录解决。]]></content>
+      <categories>
+        <category>electron</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[《思途》]]></title>
     <url>%2F1531746780.html</url>
     <content type="text"><![CDATA[201807162113 惘疯2015年到2018年，不知道在什么地方。暮阳扶纱轻透，殷霞映宇如秀。无念无罔蝉鸣，吾思误途消瘦。]]></content>
@@ -9,8 +20,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>六言</tag>
       </tags>
   </entry>
@@ -36,9 +47,9 @@
       </categories>
       <tags>
         <tag>原创</tag>
+        <tag>诗</tag>
         <tag>古风</tag>
         <tag>七言</tag>
-        <tag>诗</tag>
       </tags>
   </entry>
   <entry>
@@ -50,8 +61,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>杂言</tag>
       </tags>
   </entry>
@@ -90,9 +101,9 @@
       </categories>
       <tags>
         <tag>原创</tag>
+        <tag>诗</tag>
         <tag>古风</tag>
         <tag>七言</tag>
-        <tag>诗</tag>
       </tags>
   </entry>
   <entry>
@@ -104,8 +115,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>自由</tag>
       </tags>
   </entry>
@@ -118,9 +129,9 @@
       </categories>
       <tags>
         <tag>原创</tag>
+        <tag>诗</tag>
         <tag>古风</tag>
         <tag>七言</tag>
-        <tag>诗</tag>
       </tags>
   </entry>
   <entry>
@@ -145,8 +156,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>五言</tag>
       </tags>
   </entry>
@@ -199,8 +210,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>五言</tag>
       </tags>
   </entry>
@@ -226,9 +237,9 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
         <tag>曲词</tag>
+        <tag>古风</tag>
       </tags>
   </entry>
   <entry>
@@ -240,8 +251,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>杂言</tag>
       </tags>
   </entry>
@@ -267,8 +278,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>五言</tag>
       </tags>
   </entry>
@@ -281,8 +292,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>杂言</tag>
       </tags>
   </entry>
@@ -295,8 +306,8 @@
       </categories>
       <tags>
         <tag>原创</tag>
-        <tag>古风</tag>
         <tag>诗</tag>
+        <tag>古风</tag>
         <tag>五言</tag>
       </tags>
   </entry>
