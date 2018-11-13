@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[【Bug】解决 electron-builder 打包错误 cannot unpack electron zip file]]></title>
+    <title><![CDATA[《人未还》]]></title>
+    <url>%2F1539354120.html</url>
+    <content type="text"><![CDATA[201810122222 惘疯下班经过府河。府河不渡冬夜寒，灯影姗姗水潺潺。行桥坐窝千车过，何处哀鸣泪澜澜。]]></content>
+      <categories>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>诗</tag>
+        <tag>古风</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《雕塑》]]></title>
+    <url>%2F1538320920.html</url>
+    <content type="text"><![CDATA[201809302322 惘疯终于还是来电了啊。阳光送给你影子海棠送给你落叶微风送给你浮尘秋雨送给你寂凉此刻我和你一样伫立在城市街头没有任何的交流和你一样在感受不远处有一条狗背后的楼又停电那群人在瘫坐着和你一样在等待看那不息的车流听那不息的虫鸣是喧嚣中的沉默是清闲里的焦愁你还是没有说话你还是不愿走走而我瞧见了远方终于还是等到了]]></content>
+      <categories>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>诗</tag>
+        <tag>自由</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[【FIX】electron-builder 问题集合]]></title>
     <url>%2F1537414380.html</url>
-    <content type="text"><![CDATA[由于升级了所有依赖，打包的时候总是错误。几经周折，终于解决：1C:\Users\Administrator\AppData\Local\electron\Cache\electron-v2.0.9-win32-ia32.zip上述路径中的文件损坏，无法解压所致。可尝试清空整个Cache目录解决。]]></content>
+    <content type="text"><![CDATA[一、cannot unpack electron zip file由于升级了所有依赖，打包的时候总是错误。几经周折，终于解决：1C:\Users\Administrator\AppData\Local\electron\Cache\electron-v2.0.9-win32-ia32.zip上述路径中的文件损坏，无法解压所致。可尝试清空整个Cache目录解决。]]></content>
       <categories>
         <category>electron</category>
       </categories>
       <tags>
         <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《风又来》]]></title>
+    <url>%2F1537013580.html</url>
+    <content type="text"><![CDATA[201809152013 惘疯下班喝风回家。风又来，带着叹息，我想拉住它，它却奔向了你。雨又来，秋凉悲凄，我拥抱着它，它却回转向你。夜又来，点点星星，我举目所望，却都送给了你。梦又来，扑朔迷离，你就在这里，我却够不到你。你又来。]]></content>
+      <categories>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>诗</tag>
+        <tag>自由</tag>
       </tags>
   </entry>
   <entry>
@@ -22,7 +61,19 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>六言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[《献给雨》]]></title>
+    <url>%2F1531323600.html</url>
+    <content type="text"><![CDATA[201807112340 惘疯也许我真的很笨，而且是个疯子。开心时，我喜欢雨。哭泣时，我喜欢雨。雨，我真的喜欢雨。谢谢你让我喜欢你。我看着你电闪雷鸣。我听着你窃窃低语。我喜欢你毫无掩饰，将情感真实的表示。在雨里矗立，在雨里奔跑，在雨里跌倒，我喜欢你让我讨厌自己。雨，我病了，雨，这首诗，我要献给你，你教会了我要爱惜自己。雨，又下大了。雨，打在身上。雨，流进心里。雨，你又让我请不自己。]]></content>
+      <categories>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>诗</tag>
+        <tag>自由</tag>
       </tags>
   </entry>
   <entry>
@@ -49,7 +100,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>七言</tag>
       </tags>
   </entry>
   <entry>
@@ -103,7 +153,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>七言</tag>
       </tags>
   </entry>
   <entry>
@@ -131,7 +180,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>七言</tag>
       </tags>
   </entry>
   <entry>
@@ -158,7 +206,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>五言</tag>
       </tags>
   </entry>
   <entry>
@@ -178,7 +225,7 @@
   <entry>
     <title><![CDATA[《慢的故事》]]></title>
     <url>%2F1494954000.html</url>
-    <content type="text"><![CDATA[201505170100 惘疯改装的一辆骚粉摩托车。我有一个朋友，名字叫做慢，很多的时候，她都在追赶时间。她和我在一起，却笑而不语，因为曾多时，我总在追赶自己，慢慢啊慢慢地走，脸上雨水漫漫地流，风啊你也慢慢地吹，寒冷让我瑟瑟地抖。我亲昵地叫着她，我说慢慢……慢慢慢慢慢慢慢，我说人生好简单，慢慢慢慢慢慢慢，她却笑得很灿烂。她是我的摩托车，穿了一身粉衣裳，她和我在一起，总是在四处闯荡。她是我的摩托车，那么热情又奔放，就算是我们俩，曾经一起受过伤。我们等这夜色茫茫，我们看那车来车往，我们还在那里彷徨，这是多美的月亮。]]></content>
+    <content type="text"><![CDATA[201705170100 惘疯改装的一辆骚粉摩托车。我有一个朋友，名字叫做慢，很多的时候，她都在追赶时间。她和我在一起，却笑而不语，因为曾多时，我总在追赶自己，慢慢啊慢慢地走，脸上雨水漫漫地流，风啊你也慢慢地吹，寒冷让我瑟瑟地抖。我亲昵地叫着她，我说慢慢……慢慢慢慢慢慢慢，我说人生好简单，慢慢慢慢慢慢慢，她却笑得很灿烂。她是我的摩托车，穿了一身粉衣裳，她和我在一起，总是在四处闯荡。她是我的摩托车，那么热情又奔放，就算是我们俩，曾经一起受过伤。我们等这夜色茫茫，我们看那车来车往，我们还在那里彷徨，这是多美的月亮。]]></content>
       <categories>
         <category>诗</category>
       </categories>
@@ -202,7 +249,7 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[《阳台抽烟》]]></title>
+    <title><![CDATA[《抽烟》]]></title>
     <url>%2F1493375040.html</url>
     <content type="text"><![CDATA[201704281824 惘疯没别的意思，没有啥烟瘾。燃者一身灰，驻台察炎飞。诸天碧空净，残阳映楼晖。]]></content>
       <categories>
@@ -212,7 +259,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>五言</tag>
       </tags>
   </entry>
   <entry>
@@ -238,8 +284,8 @@
       <tags>
         <tag>原创</tag>
         <tag>诗</tag>
-        <tag>曲词</tag>
         <tag>古风</tag>
+        <tag>曲词</tag>
       </tags>
   </entry>
   <entry>
@@ -280,7 +326,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>五言</tag>
       </tags>
   </entry>
   <entry>
@@ -308,7 +353,6 @@
         <tag>原创</tag>
         <tag>诗</tag>
         <tag>古风</tag>
-        <tag>五言</tag>
       </tags>
   </entry>
   <entry>
