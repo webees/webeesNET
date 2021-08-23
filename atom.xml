@@ -5,9 +5,9 @@
   <subtitle>We are bees collecting honey in the network.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://webees.cn/"/>
-  <updated>2018-11-17T02:11:31.063Z</updated>
-  <id>http://webees.cn/</id>
+  <link href="http://webees.net/"/>
+  <updated>2021-08-23T14:21:22.111Z</updated>
+  <id>http://webees.net/</id>
   
   <author>
     <name>JockLee</name>
@@ -17,9 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《黔》</title>
+    <link href="http://webees.net/1539273600.html"/>
+    <id>http://webees.net/1539273600.html</id>
+    <published>2020-05-11T16:00:00.000Z</published>
+    <updated>2021-08-23T14:21:22.111Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;p&gt;20200512 惘疯&lt;br&gt;比特币减半。&lt;/p&gt;&lt;/blockquote&gt;&lt;center&gt;&lt;br&gt;昨夜又似无梦，&lt;br&gt;许久不能长眠。
+    
+    </summary>
+    
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
+    
+    
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《人未还》</title>
-    <link href="http://webees.cn/1539273600.html"/>
-    <id>http://webees.cn/1539273600.html</id>
+    <link href="http://webees.net/1539273600.html"/>
+    <id>http://webees.net/1539273600.html</id>
     <published>2018-11-11T16:00:00.000Z</published>
     <updated>2018-11-17T02:11:31.063Z</updated>
     
@@ -29,17 +49,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《雕塑》</title>
-    <link href="http://webees.cn/1538320920.html"/>
-    <id>http://webees.cn/1538320920.html</id>
+    <link href="http://webees.net/1538320920.html"/>
+    <id>http://webees.net/1538320920.html</id>
     <published>2018-09-30T15:22:00.000Z</published>
     <updated>2018-11-17T01:47:21.909Z</updated>
     
@@ -49,17 +69,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>【FIX】electron-builder 问题集合</title>
-    <link href="http://webees.cn/1537414380.html"/>
-    <id>http://webees.cn/1537414380.html</id>
+    <link href="http://webees.net/1537414380.html"/>
+    <id>http://webees.net/1537414380.html</id>
     <published>2018-09-20T03:33:00.000Z</published>
     <updated>2018-11-13T04:14:41.301Z</updated>
     
@@ -75,17 +95,17 @@
     
     </summary>
     
-      <category term="electron" scheme="http://webees.cn/categories/electron/"/>
+      <category term="electron" scheme="http://webees.net/categories/electron/"/>
     
     
-      <category term="技术" scheme="http://webees.cn/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://webees.net/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
   <entry>
     <title>《风又来》</title>
-    <link href="http://webees.cn/1537013580.html"/>
-    <id>http://webees.cn/1537013580.html</id>
+    <link href="http://webees.net/1537013580.html"/>
+    <id>http://webees.net/1537013580.html</id>
     <published>2018-09-15T12:13:00.000Z</published>
     <updated>2018-11-17T01:47:21.932Z</updated>
     
@@ -95,17 +115,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《思途》</title>
-    <link href="http://webees.cn/1531746780.html"/>
-    <id>http://webees.cn/1531746780.html</id>
+    <link href="http://webees.net/1531746780.html"/>
+    <id>http://webees.net/1531746780.html</id>
     <published>2018-07-16T13:13:00.000Z</published>
     <updated>2018-11-17T01:47:22.133Z</updated>
     
@@ -115,17 +135,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《献给雨》</title>
-    <link href="http://webees.cn/1531323600.html"/>
-    <id>http://webees.cn/1531323600.html</id>
+    <link href="http://webees.net/1531323600.html"/>
+    <id>http://webees.net/1531323600.html</id>
     <published>2018-07-11T15:40:00.000Z</published>
     <updated>2018-11-17T04:19:54.028Z</updated>
     
@@ -135,17 +155,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《被惊扰的夜》</title>
-    <link href="http://webees.cn/1528482000.html"/>
-    <id>http://webees.cn/1528482000.html</id>
+    <link href="http://webees.net/1528482000.html"/>
+    <id>http://webees.net/1528482000.html</id>
     <published>2018-06-08T18:20:00.000Z</published>
     <updated>2018-11-17T01:47:22.270Z</updated>
     
@@ -155,17 +175,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《单骑》</title>
-    <link href="http://webees.cn/1522919820.html"/>
-    <id>http://webees.cn/1522919820.html</id>
+    <link href="http://webees.net/1522919820.html"/>
+    <id>http://webees.net/1522919820.html</id>
     <published>2018-04-05T09:17:00.000Z</published>
     <updated>2018-11-17T01:47:21.897Z</updated>
     
@@ -175,17 +195,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《闲庭若步》</title>
-    <link href="http://webees.cn/1520852880.html"/>
-    <id>http://webees.cn/1520852880.html</id>
+    <link href="http://webees.net/1520852880.html"/>
+    <id>http://webees.net/1520852880.html</id>
     <published>2018-03-12T11:08:00.000Z</published>
     <updated>2018-11-17T02:09:32.522Z</updated>
     
@@ -195,17 +215,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《就这样吧》</title>
-    <link href="http://webees.cn/1512153600.html"/>
-    <id>http://webees.cn/1512153600.html</id>
+    <link href="http://webees.net/1512153600.html"/>
+    <id>http://webees.net/1512153600.html</id>
     <published>2017-12-01T18:40:00.000Z</published>
     <updated>2018-11-17T01:47:21.960Z</updated>
     
@@ -215,17 +235,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《夜闯殡路》</title>
-    <link href="http://webees.cn/1510421640.html"/>
-    <id>http://webees.cn/1510421640.html</id>
+    <link href="http://webees.net/1510421640.html"/>
+    <id>http://webees.net/1510421640.html</id>
     <published>2017-11-11T17:34:00.000Z</published>
     <updated>2018-11-17T02:06:12.727Z</updated>
     
@@ -235,17 +255,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《无言》</title>
-    <link href="http://webees.cn/1508045100.html"/>
-    <id>http://webees.cn/1508045100.html</id>
+    <link href="http://webees.net/1508045100.html"/>
+    <id>http://webees.net/1508045100.html</id>
     <published>2017-10-15T05:25:00.000Z</published>
     <updated>2018-11-17T01:47:22.145Z</updated>
     
@@ -255,17 +275,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《复归》</title>
-    <link href="http://webees.cn/1507203120.html"/>
-    <id>http://webees.cn/1507203120.html</id>
+    <link href="http://webees.net/1507203120.html"/>
+    <id>http://webees.net/1507203120.html</id>
     <published>2017-10-05T11:32:00.000Z</published>
     <updated>2018-11-17T01:47:21.942Z</updated>
     
@@ -275,17 +295,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《秋意》</title>
-    <link href="http://webees.cn/1506614400.html"/>
-    <id>http://webees.cn/1506614400.html</id>
+    <link href="http://webees.net/1506614400.html"/>
+    <id>http://webees.net/1506614400.html</id>
     <published>2017-09-28T16:00:00.000Z</published>
     <updated>2018-11-17T02:12:17.976Z</updated>
     
@@ -295,17 +315,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《房》</title>
-    <link href="http://webees.cn/1502048100.html"/>
-    <id>http://webees.cn/1502048100.html</id>
+    <link href="http://webees.net/1502048100.html"/>
+    <id>http://webees.net/1502048100.html</id>
     <published>2017-08-06T19:35:00.000Z</published>
     <updated>2018-11-17T02:22:07.015Z</updated>
     
@@ -315,17 +335,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《重游毕棚沟》</title>
-    <link href="http://webees.cn/1497024000.html"/>
-    <id>http://webees.cn/1497024000.html</id>
+    <link href="http://webees.net/1497024000.html"/>
+    <id>http://webees.net/1497024000.html</id>
     <published>2017-06-09T16:00:00.000Z</published>
     <updated>2018-11-17T02:04:55.498Z</updated>
     
@@ -335,17 +355,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《最后一根烟》</title>
-    <link href="http://webees.cn/1495648380.html"/>
-    <id>http://webees.cn/1495648380.html</id>
+    <link href="http://webees.net/1495648380.html"/>
+    <id>http://webees.net/1495648380.html</id>
     <published>2017-05-24T17:53:00.000Z</published>
     <updated>2018-11-17T02:03:32.254Z</updated>
     
@@ -355,19 +375,19 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
-      <category term="歌词" scheme="http://webees.cn/tags/%E6%AD%8C%E8%AF%8D/"/>
+      <category term="歌词" scheme="http://webees.net/tags/%E6%AD%8C%E8%AF%8D/"/>
     
   </entry>
   
   <entry>
     <title>《慢的故事》</title>
-    <link href="http://webees.cn/1494950400.html"/>
-    <id>http://webees.cn/1494950400.html</id>
+    <link href="http://webees.net/1494950400.html"/>
+    <id>http://webees.net/1494950400.html</id>
     <published>2017-05-16T16:00:00.000Z</published>
     <updated>2018-11-17T02:16:24.686Z</updated>
     
@@ -377,17 +397,17 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>《择》</title>
-    <link href="http://webees.cn/1494093300.html"/>
-    <id>http://webees.cn/1494093300.html</id>
+    <link href="http://webees.net/1494093300.html"/>
+    <id>http://webees.net/1494093300.html</id>
     <published>2017-05-06T17:55:00.000Z</published>
     <updated>2018-11-17T02:05:56.901Z</updated>
     
@@ -397,30 +417,10 @@
     
     </summary>
     
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/categories/%E8%AF%97/"/>
     
     
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《抽烟》</title>
-    <link href="http://webees.cn/1493375040.html"/>
-    <id>http://webees.cn/1493375040.html</id>
-    <published>2017-04-28T10:24:00.000Z</published>
-    <updated>2018-11-17T02:24:53.614Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;&lt;p&gt;201704281824 惘疯&lt;br&gt;没别的意思，没有啥烟瘾。&lt;/p&gt;&lt;/blockquote&gt;&lt;center&gt;&lt;br&gt;燃者一身灰，&lt;br&gt;驻台察炎飞。
-    
-    </summary>
-    
-      <category term="诗" scheme="http://webees.cn/categories/%E8%AF%97/"/>
-    
-    
-      <category term="诗" scheme="http://webees.cn/tags/%E8%AF%97/"/>
+      <category term="诗" scheme="http://webees.net/tags/%E8%AF%97/"/>
     
   </entry>
   
